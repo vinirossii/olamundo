@@ -1,0 +1,27 @@
+.janela1{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    text-align: center;
+}
+.janela2{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    text-align: center;
+}
+.janela3{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+
